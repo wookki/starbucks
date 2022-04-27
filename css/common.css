@@ -117,7 +117,7 @@ header .logo {
 header .sub-menu {
   display: flex;
   position: absolute;
-  top: 10;
+  top: 10px;
   right: 0;
 }
 header .sub-menu ul.menu {

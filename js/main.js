@@ -125,5 +125,3 @@ spyEls.forEach(function (spyEl) {
     .addTo(new ScrollMagic.Controller()) //대문자 주의
 })
 
-const thisYear = document.querySelector('.this-year');
-thisYear.textContent = new Date().getFullYear(); // 2021
